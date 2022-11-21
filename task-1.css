@@ -1,0 +1,22 @@
+.cf {
+	font-family: cursive;
+}
+
+.mustBeGreen {
+	color: #009933;
+}
+
+.sf {
+	font-family: sans-serif;
+	font-weight: bold;
+}
+
+.blueCursiveStrong {
+	font-family: cursive;
+	color: #000099;
+	font-weight: bold;
+}
+
+.bruh {
+	font-size: 70px;
+}
